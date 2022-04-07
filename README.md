@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Olá! Lhe dou boas vindas a minha página! 👋
+#### Por aqui você poderá encontrar diversas informações sobre diferentes áreas da tecnologia e também da programação. Esteja convidado a olhar meus repositórios e projetos.
 <!--
 **Kiquekong/Kiquekong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
